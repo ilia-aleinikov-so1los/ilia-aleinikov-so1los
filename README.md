@@ -4,14 +4,18 @@
 
 ## 📚 Education
 
-**Don State Technical University**  
-Bachelor’s degree in Mathematics and Computer Science (with honors)  
-**Graduation**: July 2024 | GPA: 5.0  
+**Moscow Polytechnic University**  
+Master's degree in Development and maintenance of a high-quality software product (with honors)  
+**Graduation**: July 2025 | GPA: 5.0  
+
+**Moscow Polytechnic University**  
+Bachelor’s degree in Mathematics and Computer Science
+**Graduation**: July 2023 | GPA: 5.0  
 
 ## 💼 Work Experience
 
 ### [FullStack LLC](#)  
-**iOS Developer** | December 2022 – January 2025 (2.2 years)
+**iOS Developer** | Nov 2022 – Feb 2025 (2.3 years)
 - Simplified cross-team collaboration by introducing standards for backend contracts and assisting
 analysts in drafting technical specifications for both development sides.
 - Made key technical decisions regarding the selection of third-party APIs, presenting and justifying
@@ -27,7 +31,7 @@ push notifications by adding deep links to the app’s main tabs.
 ---
 
 ### [Sebbia LLC](#)  
-**iOS Developer** | February 2020 – November 2022 (2.10 years)
+**iOS Developer** | Dec 2019 – Oct 2022 (2.10 years)
 
 **Project: Kommersant**
 - Contributed to the creation of technical documentation, reducing onboarding time for new employees.
@@ -76,7 +80,7 @@ to 44.**
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/soloaverse/)
+- [LinkedIn](https://www.linkedin.com/in/ilia-aleinikov-solos)
 - [WhatsApp](https://wa.me/37493456012)
-- [Telegram](https://t.me/soloAverse)
+- [Telegram](https://t.me/ilia_aleinikov_solos)
 - [Email](mailto:alejnikov.ilya@gmail.com)
