@@ -9,7 +9,7 @@ Master's degree in Development and maintenance of a high-quality software produc
 **Graduation**: July 2025 | GPA: 5.0  
 
 **Moscow Polytechnic University**  
-Bachelor’s degree in Mathematics and Computer Science
+Bachelor’s degree in Mathematics and Computer Science  
 **Graduation**: July 2023 | GPA: 5.0  
 
 ## 💼 Work Experience
