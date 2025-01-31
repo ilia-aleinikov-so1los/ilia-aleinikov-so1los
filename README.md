@@ -1,4 +1,4 @@
-#  Ilia Aleinikov - iOS Developer, 5+ years of commercial experience (GMT+4)
+#  Ilia Aleinikov - iOS Developer, 5+ years of commercial experience
 
 👋 Hello World! I have worked on both outsourcing and product-based projects in teams ranging **from 2 to 40 members**. I possess a deep understanding of all stages of app development — from concept to release and post-launch support. I’m always eager to learn, actively share my knowledge, and have mentoring experience, including onboarding new colleagues for creating high-quality applications)
 
