@@ -78,7 +78,7 @@ Bachelor’s degree in Mathematics and Computer Science  (with honors)
 
 ## 🔗 Links
 
-- [LinkedIn](https://www.linkedin.com/in/ilia-aleinikov-solos)
+- [LinkedIn](https://www.linkedin.com/in/ilia-aleinikov-so1los)
 - [WhatsApp](https://wa.me/37493456012)
-- [Telegram](https://t.me/ilia_aleinikov_solos)
+- [Telegram](https://t.me/ilia_aleinikov_so1los)
 - [Email](mailto:alejnikov.ilya@gmail.com)
