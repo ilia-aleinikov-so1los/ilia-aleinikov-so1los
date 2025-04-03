@@ -14,8 +14,8 @@ Bachelor’s degree in Mathematics and Computer Science  (with honors)
 
 ## 💼 Work Experience
 
-### [EPAM Systems](https://www.epam.com/)  
-**iOS Developer** | Feb 2023 – Feb 2025 (2+ years)  
+### [EPAM Systems](https://www.epam.com)  
+**iOS Developer** | Feb 2023 – Apr 2025 (2+ years)  
 
 — Designed onboarding screens for new users, making it easier for them to familiarize themselves with the app’s features, which increased the App Store rating **from 4.3 to 4.5.**  
 — Improved application stability by increasing the crash-free rate **from 87.6% to 94.2%.**  
@@ -27,7 +27,7 @@ Bachelor’s degree in Mathematics and Computer Science  (with honors)
 
 ---
 
-### [Grid Dynamics](https://www.griddynamics.com/)  
+### [Sberbank PJSC](https://www.sberbank.com)  
 **iOS Developer** | Jun 2021 – Dec 2022 (1.7 years)  
 
 — Contributed to the creation of technical documentation, **reducing onboarding** time for new employees.  
@@ -40,7 +40,7 @@ Bachelor’s degree in Mathematics and Computer Science  (with honors)
 
 ---
 
-### [Andersen Lab](https://andersenlab.com/)  
+### [Grid Dynamics](https://www.griddynamics.com)  
 **iOS Developer** | Dec 2019 – Apr 2021 (1.5 years)  
 
 — Made key technical decisions regarding the selection of third-party APIs, presenting and **justifying them** to the business stakeholders.  
@@ -53,6 +53,9 @@ Bachelor’s degree in Mathematics and Computer Science  (with honors)
 
 ## 📱 Published Applications
 
+- [Connect](https://apps.apple.com/us/app/epam-connect/id1135407607)
+- [Together](https://apps.apple.com/us/app/together-locals-gathering/id1658171952)
+- [Infongen](https://apps.apple.com/us/app/infongen-business-insights/id1380032694)
 - [Skill](https://apps.apple.com/us/app/skill-ski-mtb-tracker/id1329688004)
 - [Kommersant](https://www.rustore.ru/catalog/app/com.nsadv.kommersant)
 - [Fanzilla](https://fanzilla.app/)
