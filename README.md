@@ -53,10 +53,10 @@ Bachelor’s degree in Mathematics and Computer Science  (with honors)
 
 ## 📱 Published Applications
 
+- [Skill](https://apps.apple.com/us/app/skill-ski-mtb-tracker/id1329688004)
 - [Connect](https://apps.apple.com/us/app/epam-connect/id1135407607)
 - [Together](https://apps.apple.com/us/app/together-locals-gathering/id1658171952)
 - [Infongen](https://apps.apple.com/us/app/infongen-business-insights/id1380032694)
-- [Skill](https://apps.apple.com/us/app/skill-ski-mtb-tracker/id1329688004)
 - [Kommersant](https://www.rustore.ru/catalog/app/com.nsadv.kommersant)
 - [Fanzilla](https://fanzilla.app/)
 
